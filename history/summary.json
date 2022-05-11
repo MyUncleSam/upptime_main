@@ -4,19 +4,19 @@
     "url": "https://www.ruepp.info",
     "icon": "https://favicons.githubusercontent.com/www.ruepp.info",
     "slug": "webserver-main-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 900,
-    "timeWeek": 685,
-    "timeMonth": 823,
-    "timeYear": 841,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 837,
+    "timeDay": 790,
+    "timeWeek": 684,
+    "timeMonth": 818,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 26
     }
   },
   {
