@@ -4,9 +4,9 @@
     "url": "https://www.ruepp.info",
     "icon": "https://favicons.githubusercontent.com/www.ruepp.info",
     "slug": "webserver-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 685,
     "timeMonth": 823,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   },
   {
     "name": "Webserver (Teamspeak)",
