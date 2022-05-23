@@ -24,7 +24,7 @@
     "url": "srv.sruepp.de",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webserver-teamspeak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 128,
     "timeMonth": 126,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "Mailserver (admin center)",
