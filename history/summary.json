@@ -44,7 +44,7 @@
     "url": "https://mail.ruepp.email",
     "icon": "https://favicons.githubusercontent.com/mail.ruepp.email",
     "slug": "mailserver-admin-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 736,
     "timeMonth": 764,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "Mailserver (SMTP)",
