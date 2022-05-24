@@ -44,19 +44,19 @@
     "url": "https://mail.ruepp.email",
     "icon": "https://favicons.githubusercontent.com/mail.ruepp.email",
     "slug": "mailserver-admin-center",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 513,
-    "timeWeek": 736,
-    "timeMonth": 764,
-    "timeYear": 796,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 792,
+    "timeDay": 523,
+    "timeWeek": 711,
+    "timeMonth": 756,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2022-05-24": 0
+      "2022-05-24": 17
     }
   },
   {
