@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 825,
-    "timeDay": 604,
-    "timeWeek": 770,
-    "timeMonth": 784,
-    "timeYear": 825,
+    "time": 823,
+    "timeDay": 714,
+    "timeWeek": 777,
+    "timeMonth": 781,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2022-05-11": 26
     }
@@ -26,15 +26,15 @@
     "slug": "webserver-teamspeak",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 130,
-    "timeDay": 92,
-    "timeWeek": 120,
-    "timeMonth": 125,
-    "timeYear": 130,
+    "time": 129,
+    "timeDay": 94,
+    "timeWeek": 116,
+    "timeMonth": 123,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2022-05-23": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 792,
-    "timeDay": 523,
-    "timeWeek": 711,
-    "timeMonth": 756,
-    "timeYear": 792,
+    "time": 796,
+    "timeDay": 801,
+    "timeWeek": 759,
+    "timeMonth": 759,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2022-05-24": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 90,
-    "timeWeek": 123,
-    "timeMonth": 125,
-    "timeYear": 130,
+    "time": 129,
+    "timeDay": 94,
+    "timeWeek": 119,
+    "timeMonth": 124,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
