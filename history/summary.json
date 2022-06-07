@@ -25,9 +25,9 @@
     "url": "srv.sruepp.de",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "webserver-teamspeak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.67%",
@@ -37,6 +37,7 @@
     "timeMonth": 126,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2022-06-07": 0,
       "2022-05-25": 327,
       "2022-05-23": 20
     }
@@ -46,18 +47,19 @@
     "url": "https://mail.ruepp.email",
     "icon": "https://favicons.githubusercontent.com/mail.ruepp.email",
     "slug": "mailserver-admin-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 800,
-    "timeDay": 844,
-    "timeWeek": 785,
-    "timeMonth": 780,
-    "timeYear": 800,
+    "time": 796,
+    "timeDay": 667,
+    "timeWeek": 748,
+    "timeMonth": 772,
+    "timeYear": 796,
     "dailyMinutesDown": {
+      "2022-06-07": 0,
       "2022-05-24": 17
     }
   },
