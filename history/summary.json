@@ -67,10 +67,10 @@
     "url": "https://mail.ruepp.email",
     "icon": "https://icons.duckduckgo.com/ip3/mail.ruepp.email.ico",
     "slug": "mailserver-admin-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 802,
@@ -79,6 +79,7 @@
     "timeMonth": 829,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2023-02-03": 0,
       "2023-01-31": 22,
       "2022-12-14": 19,
       "2022-10-28": 29,
@@ -90,10 +91,10 @@
     "url": "mail.ruepp.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 125,
@@ -102,6 +103,7 @@
     "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2023-02-03": 0,
       "2023-01-31": 22,
       "2022-12-14": 19
     }
