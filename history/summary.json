@@ -70,7 +70,7 @@
     "url": "https://mail.ruepp.email",
     "icon": "https://icons.duckduckgo.com/ip3/mail.ruepp.email.ico",
     "slug": "mailserver-admin-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -94,9 +94,9 @@
     "url": "mail.ruepp.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -106,6 +106,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2023-04-27": 0,
       "2023-04-20": 17,
       "2023-01-31": 22,
       "2022-12-14": 19
